@@ -42,6 +42,17 @@ Response:
 "status":"Success with ProviderA",
 "result":"ProviderA sent email to email@example.com"
 }
+
+# Cloud Deployment:
+  ### goto AWS site create acoount
+  ### choose a machine to configure 
+  ### launch an EC2 instacnce 
+  ### setup security
+  ### install node js on the server
+  ### install express js on server 
+  ### deploy the project on the server
+
+  
 # Note : 
   ## you can change rate limit in EmailService.js
   ## You can easily modify any thing according to requirement from EmailService.js
